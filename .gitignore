@@ -1,14 +1,18 @@
-.metadata
+.metadata/
 bin/
 tmp/
 *.tmp
 *.bak
 *.swp
 *~.nib
+*.jar
+*.war
+*.ear
+*.class
 local.properties
 .settings/
 .loadpath
-.recommenders
+.recommenders/
 .DS_Store
 
 # Eclipse Core
